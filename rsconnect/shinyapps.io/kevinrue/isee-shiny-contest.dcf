@@ -1,0 +1,10 @@
+name: isee-shiny-contest
+title: iSEE app using a subset of the allen dataset
+username: kevinrue
+account: kevinrue
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 735398
+bundleId: 1894024
+url: https://kevinrue.shinyapps.io/isee-shiny-contest/
+when: 1550950950.2006
