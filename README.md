@@ -16,6 +16,9 @@ It enables simultaneous visualisation of experimental data, associated metadata 
 
 ## Links for the Shiny Contest
 
+You can find our post in the RStudio Community [here](https://community.rstudio.com/t/shiny-contest-submission-isee-interactive-and-reproducible-exploration-and-visualization-of-genomics-data/25136).
+From there, you can reach all the related links:
+
 - RStudio Cloud project: https://rstudio.cloud/project/230765
 - Live app: https://kevinrue.shinyapps.io/isee-shiny-contest/
 - GitHub repository: https://github.com/kevinrue/isee-shiny-contest 
