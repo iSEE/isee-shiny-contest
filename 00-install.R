@@ -2,7 +2,7 @@
 # Essentials ----
 
 install.packages("BiocManager")
-BiocManager::install("iSEE")
+BiocManager::install("iSEE", version = "3.10")
 install.packages("rsconnect")
 
 # GitHub ----
