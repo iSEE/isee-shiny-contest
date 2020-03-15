@@ -30,4 +30,4 @@ initialPanels <- DataFrame(
 )
 
 
-iSEE(sce, tour = tour, initialPanels = initialPanels)
+iSEE(sce, tour = tour, initialPanels = initialPanels, voice = TRUE)
